@@ -3,7 +3,7 @@ TopSheet - a "top" version of BottomSheet
 
 [![Release](https://jitpack.io/v/TechIsFun/AndroidTopSheet.svg)](https://jitpack.io/#TechIsFun/AndroidTopSheet)
 
-TopSheetBehaviour
+TopSheetBehavior
 -----
 ```java
 View sheet = findViewById(R.id.top_sheet);
